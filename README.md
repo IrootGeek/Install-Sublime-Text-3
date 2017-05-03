@@ -7,13 +7,16 @@ $ wget https://download.sublimetext.com/sublime_text_3_build_3126_x64.tar.bz2
 $ tar -xvjf sublime_text_3_build_3126_x64.tar.bz2
 
 $ sudo mv sublime_text_3/ /opt/sublime_text_3/
+
 $ sudo ln -s /opt/sublime_text_3 /usr/local/sublime_text_3
+
 $ sudo ln -s /usr/local/sublime_text_3/sublime_text /usr/local/bin/sublime_text
 
 $ rm sublime_text_3_build_3126_x64.tar.bz2
 
 # How to execute Sublime Text 3
 With command : $ sublime_text
+
 You can add to the application menu in GNOME by:
 1. Right click on the Applications menu
 2. Select "edit menus"
