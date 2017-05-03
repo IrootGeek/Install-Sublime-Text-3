@@ -6,9 +6,9 @@ $ wget https://download.sublimetext.com/sublime_text_3_build_3126_x64.tar.bz2
 # Extract files
 $ tar -xvjf sublime_text_3_build_3126_x64.tar.bz2
 
-# mv sublime_text_3/ /opt/sublime_text_3/
-# ln -s /opt/sublime_text_3 /usr/local/sublime_text_3
-# ln -s /usr/local/sublime_text_3/sublime_text /usr/local/bin/sublime_text
+$ sudo mv sublime_text_3/ /opt/sublime_text_3/
+$ sudo ln -s /opt/sublime_text_3 /usr/local/sublime_text_3
+$ sudo ln -s /usr/local/sublime_text_3/sublime_text /usr/local/bin/sublime_text
 
 $ rm sublime_text_3_build_3126_x64.tar.bz2
 
