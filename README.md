@@ -1,6 +1,6 @@
 # Install-Sublime-Text-3
 
-# Download sublime text 3 x64 other than Linux Ubentu 
+# Download sublime text 3 x64 other than Linux Ubentu distributions
 $ wget https://download.sublimetext.com/sublime_text_3_build_3126_x64.tar.bz2
 
 # Extract files
